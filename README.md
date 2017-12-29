@@ -6,7 +6,7 @@
   3.我最终实现的通过"jave + MQ"的版本，做到了“准实时” + “清晰度一致”的异步实现。
 
 2.研究过程
-
+![Image text](https://github.com/zhangzhenhua92/VideoEncoder/blob/master/imagefolder/%E8%BD%AC%E7%A0%81.jpg)
 
 3.困难问题
 
